@@ -294,7 +294,7 @@
 .nav-title {
   font-size: 4vh;
   font-weight: 900;
-  padding-top: 8vh;
+  padding-top: 2vh;
   color: white;
 
 }
@@ -430,10 +430,5 @@
     position: absolute;
     left: 38%;
     top: 500vh;
-}
-.h1{
-    position: absolute;
-    color: white;
-    margin-bottom: 2vh;
 }
 }
